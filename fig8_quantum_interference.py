@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import matplotlib.gridspec as gridspec
 
 # =============================================================================
-# CODE METADATA & PHYSICS ESSENCE
+# CODE METADATA & PHYSICS ESSENCE 
 # =============================================================================
 # SCRIPT: fig8_quantum_interference.py
 # PURPOSE: Demonstration of Wave-Particle Duality via Double-Slit Experiment.
