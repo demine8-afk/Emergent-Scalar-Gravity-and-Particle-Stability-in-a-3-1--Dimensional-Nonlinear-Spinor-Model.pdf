@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from tqdm import tqdm
 
 # =============================================================================
-# CODE METADATA & PHYSICS ESSENCE
+# CODE METADATA & PHYSICS ESSENCE 
 # =============================================================================
 # SCRIPT: fig4_binary_decay_final.py
 # PURPOSE: High-Fidelity Ab Initio Simulation of Scalar Gravitational Inspiral.
