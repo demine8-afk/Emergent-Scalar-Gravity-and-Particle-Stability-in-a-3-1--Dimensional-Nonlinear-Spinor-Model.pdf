@@ -4,7 +4,7 @@ import matplotlib.gridspec as gridspec
 from scipy.fftpack import fft2, ifft2
 
 # =============================================================================
-# CODE METADATA & PHYSICS ESSENCE
+# CODE METADATA & PHYSICS ESSENCE 
 # =============================================================================
 # SCRIPT: fig3_relativistic_scattering_soler.py
 # PURPOSE: Simulation of Relativistic Soliton Collisions in (3+1)D.
