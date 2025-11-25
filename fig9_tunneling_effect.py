@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # =============================================================================
-# CODE METADATA & PHYSICS ESSENCE
+# CODE METADATA & PHYSICS ESSENCE 
 # =============================================================================
 # SCRIPT: fig9_tunneling_effect.py
 # PURPOSE: Demonstration of Quantum Tunneling in the Nonlinear Spinor Model.
