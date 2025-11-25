@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # =============================================================================
-# CODE METADATA & PHYSICS ESSENCE
+# CODE METADATA & PHYSICS ESSENCE 
 # =============================================================================
 # SCRIPT: fig7_gravitational_redshift.py
 # PURPOSE: Quantitative demonstration of Gravitational Redshift.
